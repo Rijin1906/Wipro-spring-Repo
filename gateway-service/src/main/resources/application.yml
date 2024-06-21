@@ -1,0 +1,23 @@
+#server:
+# port: 8085
+#eureka:
+# client:
+#   fetch-registry: true
+#   serviceUrl:
+#     defaultZone: http://localhost:8761/eureka/
+# instance:
+#   preferIpAddress: true 
+#spring:
+# application:
+#   name: gateway-service
+# cloud:
+#   gateway:
+#     routes:
+#     - id: producerModule
+#       uri: lb://PRODUCER-SERVICE
+#       predicates:
+#       - Path=/gc/**
+#     - id: consumerModule
+#       uri: lb://CONSUMER-SERVICE
+#       predicates:
+#       - Path=/ccf/**
