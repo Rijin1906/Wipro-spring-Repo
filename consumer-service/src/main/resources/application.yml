@@ -1,0 +1,23 @@
+#spring:
+# application:
+#   name: consumer-service
+# cloud:
+##    loadbalancer:
+##       ribbon:
+##        enable: false
+#   openfeign:
+#      circuitbreaker:
+#       enabled: true
+#server:
+# port: 8202
+#eureka:
+# client:
+#   fetch-registry: true
+#   serviceUrl:
+#     defaultZone: http://localhost:8761/eureka/
+#feign:
+# client:
+#   config:
+#     default:
+#       connectTimeout: 160000000
+#       readTimeout: 160000000
