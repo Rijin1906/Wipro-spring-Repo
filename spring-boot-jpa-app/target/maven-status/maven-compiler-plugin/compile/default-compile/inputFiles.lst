@@ -1,0 +1,10 @@
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/SpringBootJpaAppApplication.java
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/aspect/UserAspect.java
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/controller/UserController.java
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/dao/UserDAO.java
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/dao/UserDaoImpl.java
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/entity/Role.java
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/entity/User.java
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/exception/UserException.java
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/service/UserService.java
+/home/rps/Downloads/spring-boot-jpa-app/src/main/java/com/wipro/service/UserServiceImpl.java

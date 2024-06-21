@@ -1,0 +1,11 @@
+com/wipro/service/UserServiceImpl.class
+com/wipro/controller/UserController.class
+com/wipro/exception/UserException.class
+com/wipro/dao/UserDaoImpl.class
+com/wipro/dao/UserDAO.class
+com/wipro/SpringBootJpaAppApplication.class
+com/wipro/aspect/UserAspect.class
+com/wipro/service/UserService.class
+com/wipro/entity/User.class
+com/wipro/entity/Role.class
+com/wipro/entity/User$UserBuilder.class
